@@ -7,6 +7,7 @@ struct Queue
   int p;
 }Q[size];
 int front=-1,rear=-1;
+
 void Insert()
 {
   int t1=0,t2=0,x,y;
